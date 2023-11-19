@@ -12,6 +12,7 @@
   "author": "Dhanasasidharan D",
   "license": "ISC",
   "dependencies": {
+    "babel-preset-react": "^6.24.1",
     "bcrypt": "^5.1.1",
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
